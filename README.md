@@ -1,4 +1,4 @@
-# ATM-Management-System
+# Simple ATM-Management-System
 This is a simple Java based ATM Management System project.
 # features
 -Check Balance
